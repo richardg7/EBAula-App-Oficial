@@ -1,0 +1,32 @@
+O plug-in dos serviços do Google para Gradle carrega o arquivo google-services.json cujo download você acabou de fazer. Modifique seus arquivos build.gradle para usar o plug-in.
+
+build.gradle no nível do projeto (<project>/build.gradle):
+
+Copiado
+
+buildscript {
+  dependencies {
+    // Add this line
+    classpath 'com.google.gms:google-services:4.0.1'
+  }
+}
+build.gradle no nível do app (<project>/<app-module>/build.gradle):
+
+Copiado
+
+
+Copiado
+
+dependencies {
+  // Add this line
+  implementation 'com.google.firebase:firebase-core:16.0.1'
+}
+...
+// Add to the bottom of the file
+apply plugin: 'com.google.gms.google-services'
+Inclui o Analytics por padrão
+
+Por fim, pressione "Sincronizar agora" na barra que aparece no ambiente de desenvolvimento integrado:
+
+
+compile 'com.google.android.gms:play-services-auth:9.4.0'

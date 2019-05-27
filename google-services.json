@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "275727336251",
+    "firebase_url": "https://ebaula-3aaef.firebaseio.com",
+    "project_id": "ebaula-3aaef",
+    "storage_bucket": "ebaula-3aaef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275727336251:android:fdecea7ff78c87e8",
+        "android_client_info": {
+          "package_name": "br.mil.eb.ebaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275727336251-kg7055bk1278oevd44hucgbto2lu1ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALti0JkL5MQEp191vUPygRMzKFpG3JrsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275727336251-kg7055bk1278oevd44hucgbto2lu1ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
