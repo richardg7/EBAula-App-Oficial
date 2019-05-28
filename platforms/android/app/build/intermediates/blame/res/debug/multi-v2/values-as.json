@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/app/moodlemobile2/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "map": [
+                {
+                    "source": "/home/app/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/62aac1a6b7a3db8754502c020f602e8e/res/values-as/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

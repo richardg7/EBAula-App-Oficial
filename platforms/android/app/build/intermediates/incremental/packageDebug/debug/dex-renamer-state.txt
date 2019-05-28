@@ -1,0 +1,7 @@
+#Thu Apr 25 14:44:05 BRT 2019
+base.0=/home/app/moodlemobile2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/app/moodlemobile2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
